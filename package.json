@@ -1,0 +1,20 @@
+{
+  "name": "coincityserver",
+  "version": "1.0.0",
+  "description": "game backend",
+  "main": "server.js",
+  "scripts": {
+    "test": "node server.js",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alpkabac/CoinCityServer.git"
+  },
+  "author": "alpkabac",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alpkabac/CoinCityServer/issues"
+  },
+  "homepage": "https://github.com/alpkabac/CoinCityServer#readme"
+}
