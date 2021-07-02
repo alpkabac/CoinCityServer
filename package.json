@@ -16,5 +16,10 @@
   "bugs": {
     "url": "https://github.com/alpkabac/CoinCityServer/issues"
   },
-  "homepage": "https://github.com/alpkabac/CoinCityServer#readme"
+  "homepage": "https://github.com/alpkabac/CoinCityServer#readme",
+  "dependencies": {
+    "nodemon": "^2.0.9",
+    "shortid": "^2.2.16",
+    "socket.io": "^2.4.1"
+  }
 }
